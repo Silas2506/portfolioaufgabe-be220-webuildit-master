@@ -9,7 +9,7 @@ public class SpringDataApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringDataApplication.class, args);
 
-		System.out.println("Dies ist ein Test");
+		System.out.println("Dies ist ein Test???!?!?!?");
 	}
 
 }
